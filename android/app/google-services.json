@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845779527108",
+    "firebase_url": "https://the-mindfulness-349c9.firebaseio.com",
+    "project_id": "the-mindfulness-349c9",
+    "storage_bucket": "the-mindfulness-349c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845779527108:android:94ea2bcec22bc8d1f1f091",
+        "android_client_info": {
+          "package_name": "com.example.The_Mindfulness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845779527108-156bt5filao5m8ouaperv36s2lekmeju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.The_Mindfulness",
+            "certificate_hash": "0a94863299beb32ecfe602cd84004df575d08756"
+          }
+        },
+        {
+          "client_id": "845779527108-ta9sot67shocqtb8oi2hpaid24i98vrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgzwoucFcfPqX4u6opdP7d8k0iqPjYfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845779527108-ta9sot67shocqtb8oi2hpaid24i98vrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
